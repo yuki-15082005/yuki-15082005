@@ -1,44 +1,67 @@
-# Hi, I'm Yukesh Yadav 👋
+# Hi, I'm Yukesh Yadav (Yuki) 👋
 
-### Final-Year ECE Student | AI/ML & Python | Full-Stack Developer | Graphic Designer
+### ECE Student | Java Full Stack Developer | AI/ML Enthusiast | Graphic Designer
 
-I'm a final-year Electronics and Communication Engineering student interested in Artificial Intelligence, Machine Learning, Full-Stack Development, and Graphic Design.
+I'm a final-year Electronics and Communication Engineering student at **Jeppiaar Engineering College**, passionate about building web applications, exploring Artificial Intelligence and Machine Learning, and creating creative digital designs.
 
-### 🚀 What I'm Working On
+## 🚀 About Me
 
-- 🤖 Exploring AI/ML with Python
-- 📊 Working on real-world projects
-- 💻 Building Full-Stack applications
-- 🎨 Creating digital and graphic designs
-- 📚 Continuously learning new technologies
+* 🎓 Pursuing B.E. in Electronics and Communication Engineering (2027)
+* 💻 Completed Java Full Stack Development training at HEJEX Technology
+* 🤖 Exploring AI/ML and Python through internship projects
+* 🌐 Interested in Full-Stack and Web Application Development
+* 🎨 Experienced in Graphic Design and creative projects
+* 🤝 Design Chairperson at Yuva Club
 
-### 🛠️ Skills & Interests
+## 🛠️ Technical Skills
 
-- Python
-- Artificial Intelligence & Machine Learning
-- Java
-- Full-Stack Development
-- Web Development
-- SQL
-- Graphic Design
+* **Programming:** Python, Java, JavaScript
+* **Web Development:** HTML, CSS, React
+* **Database:** SQL
+* **AI/ML:** Machine Learning fundamentals, Python
+* **Design:** Graphic Design, Visual Design
 
-### 🎓 Education
+## 📂 Featured Projects
 
-**B.E. Electronics and Communication Engineering (ECE)**  
-Jeppiaar Engineering College
+### 🎓 Learning Management System (LMS)
 
-### 💼 Experience
+A web application project featuring a quiz module.
 
-- Graphic Design Intern — Neurostack
-- Intern — Learning Management System Project
-- Design Chairperson — Yuva Club
+🔗 [View LMS Repository](https://github.com/yuki-15082005/LearningManagementSystem)
 
-### 🎯 Current Focus
+### 👥 Employee Management System (EMS)
 
-Building practical projects, strengthening my programming skills, and exploring AI/ML and Full-Stack Development.
+An employee management project focused on organizing employee information.
 
-### 🤝 Let's Connect
+🔗 [Explore my repositories](https://github.com/yuki-15082005?tab=repositories)
 
-I'm interested in learning, collaborating, and working on meaningful technology projects.
+### 🤖 AI/ML Exploration
 
-📌 [LinkedIn](https://www.linkedin.com/in/yukesh-yadav-j-b92ab032a)
+Exploring Python, Artificial Intelligence, and Machine Learning through learning and project work.
+
+*Note: My AI/ML repository is currently private.*
+
+## 💼 Experience & Activities
+
+* **AI/ML & Python Intern** — RIS
+* **Graphic Design Intern** — Neurostack
+* **Project Experience** — Learning Management System, AdroIT Technologies Innovative Solutions Pvt. Ltd.
+* **Design Chairperson** — Yuva Club
+
+## 🎯 Current Goals
+
+* Build practical AI/ML and Full-Stack projects
+* Improve problem-solving and programming skills
+* Create a professional developer and designer portfolio
+* Collaborate on meaningful technology projects
+
+## 🤝 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/yukesh-yadav-j-b92ab032a)
+* 💻 [GitHub](https://github.com/yuki-15082005)
+* 📧 [Email](mailto:yukeshyadav0@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
